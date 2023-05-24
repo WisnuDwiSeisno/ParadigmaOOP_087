@@ -30,6 +30,9 @@ public:
 	}
 
 	~pelajar() {
+		cout << "pelajar dihapus\n" << endl;
+	}
+	string perkenalan() {
 
 	}
 };
