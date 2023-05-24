@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mainIA", "mainIA\mainIA.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MainJM", "MainJM\MainJM.vcxproj", "{A7EAF612-7166-44B1-B15C-964A89144E2B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memberinitlist", "memberinitlist\memberinitlist.vcxproj", "{18A58EFA-B3CF-47EF-A465-2A8ABEA3955A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{A7EAF612-7166-44B1-B15C-964A89144E2B}.Release|x64.Build.0 = Release|x64
 		{A7EAF612-7166-44B1-B15C-964A89144E2B}.Release|x86.ActiveCfg = Release|Win32
 		{A7EAF612-7166-44B1-B15C-964A89144E2B}.Release|x86.Build.0 = Release|Win32
+		{18A58EFA-B3CF-47EF-A465-2A8ABEA3955A}.Debug|x64.ActiveCfg = Debug|x64
+		{18A58EFA-B3CF-47EF-A465-2A8ABEA3955A}.Debug|x64.Build.0 = Debug|x64
+		{18A58EFA-B3CF-47EF-A465-2A8ABEA3955A}.Debug|x86.ActiveCfg = Debug|Win32
+		{18A58EFA-B3CF-47EF-A465-2A8ABEA3955A}.Debug|x86.Build.0 = Debug|Win32
+		{18A58EFA-B3CF-47EF-A465-2A8ABEA3955A}.Release|x64.ActiveCfg = Release|x64
+		{18A58EFA-B3CF-47EF-A465-2A8ABEA3955A}.Release|x64.Build.0 = Release|x64
+		{18A58EFA-B3CF-47EF-A465-2A8ABEA3955A}.Release|x86.ActiveCfg = Release|Win32
+		{18A58EFA-B3CF-47EF-A465-2A8ABEA3955A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
